@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(248, 233, 199);
+}
+
+h1 {
+    font-family: 'Tilt Warp', sans-serif;
+    border: 5px solid rgb(173, 122, 44);
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 30px 15px 25px 20px;
+    font-weight: bold;
+    color: rgb(90, 73, 60);
+}
+
+section {
+    width: 800px;
+    border: 25px solid brown;
+    padding: 50px;
+    margin: 20px;
+  }
+
+#demo {
+    color: brown;
+    font-size: 23px
+}
+
+#parrafo {
+    color: red;
+    font-size: 18px;
+}
+
+.clase {
+    font-weight: bold;
+    color: blue;
+}
+
+#parrafo2 {
+    color: orangered;
+    font-size: 18px;
+}
+
+#demo2 {
+    color: orangered;
+    font-size: 18px;
+}
+
+#parrafo3 {
+    color: purple;
+    font-size: 18px;
+}
+
+#demo3 {
+    color: purple;
+    font-size: 18px;
+}
+
+#parrafo4 {
+    color: darkblue;
+    font-size: 18px;
+}
+
+#demo4 {
+    color: darkblue;
+    font-size: 18px;
+}
+
+#parrafo5 {
+    color: green;
+    font-size: 18px;
+}
+
+#demo5 {
+    color: green;
+    font-size: 18px;
+}
+
+#parrafo6 {
+    color: darkred;
+    font-size: 18px;
+}
+
+#demo6 {
+    color: darkred;
+    font-size: 18px;
+}
